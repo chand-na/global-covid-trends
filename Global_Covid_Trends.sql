@@ -25,7 +25,7 @@ FROM
 ORDER BY location, date;
 
 -- Total Deaths vs Total Cases --
--- Analyzing Death Percentage for each location (filtering for India as an example) --
+-- Analyzing Death Percentage for each location (filtering India as an example) --
 
 SELECT 
     location,
